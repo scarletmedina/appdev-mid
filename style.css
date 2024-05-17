@@ -347,14 +347,14 @@ textarea {
 */
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  opacity: 1;
+  opacity: 2;
   /* 1 */
   color: #9ca3af;
   /* 2 */
 }
 
 input:-ms-input-placeholder, textarea:-ms-input-placeholder {
-  opacity: 1;
+  opacity: 2;
   /* 1 */
   color: #9ca3af;
   /* 2 */
@@ -362,7 +362,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 input::placeholder,
 textarea::placeholder {
-  opacity: 1;
+  opacity: 2;
   /* 1 */
   color: #9ca3af;
   /* 2 */
